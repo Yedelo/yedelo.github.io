@@ -1,3 +1,4 @@
 {
-  "yedelmod-message": "Just a space for messages for the mod, accessed with /yedelmessage in the future"
+  "yedelmod-message": "Just a space for messages for the mod, accessed with /yedelmessage in the future",
+  "yedelmod-message-formatted": "Will be the same as above but with formatting codes"
 }
