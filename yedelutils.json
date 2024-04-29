@@ -1,5 +1,4 @@
 {
-  "yedelutils_message": "Just a space for messages for the mod, accessed with /yedelmessage in the future",
-  "yedelutils_message_formatted": "eval(ChatLib.chat('remote code execution test in eval in message'))",
-  "ChatLib.chat('remote code execution test')": "eval(ChatLib.chat('remote code execution test in eval'))"
+  "yedelutils_message": "Unformatted messages for the module",
+  "yedelutils_message_formatted": "&cTest message &9&lwith formatting"
 }
