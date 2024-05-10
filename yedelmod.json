@@ -1,4 +1,4 @@
 {
   "yedelmod-message": "Just a space for messages for the mod, accessed with /yedelmessage in the future",
-  "yedelmod-message-formatted": "Yedel mod"
+  "yedelmod-message-formatted": "You can use the yedelmod.server.name jvm property to quick-join servers. For example, use -Dyedelmod.server.name=mc.hypixel.net to join hypixel on launch"
 }
