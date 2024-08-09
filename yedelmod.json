@@ -1,4 +1,4 @@
 {
   "yedelmod-message": "Just a space for messages for the mod, accessed with /yedelmessage in the future",
-  "yedelmod-message-formatted": "Problem with ping response was found. If you get NullPointerExceptions when joining the server, update to 1.3.0 (when it is out)"
+  "yedelmod-message-formatted": "With mod version 1.3.2 (after 1.3.1!!!), hypixel mod api will no longer be required to download"
 }
