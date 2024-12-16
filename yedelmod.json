@@ -1,4 +1,4 @@
 {
   "yedelmod-message": "Just a space for messages for the mod, accessed with /yedelmessage in the future",
-  "yedelmod-message-formatted": "A new version using OneConfig is being developed, check the oneconfig branch in github to test it."
+  "yedelmod-message-formatted": "Client-side auto-block does not work at all"
 }
